@@ -16,9 +16,12 @@ Modelado Predictivo: prophet (Meta)
 
 Entorno: Google Colab
 
-🚀 Acceso Directo al Proyecto
-Puedes abrir, ejecutar y explorar el cuaderno de trabajo directamente en Google Colab:
+---
+### 🔍 ¿Quieres ver el análisis completo?
+Puedes abrir este proyecto directamente en Google Colab para interactuar con el código y las gráficas:
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Diego-rd05/SmartRetail_Prophet_Predictivo_Do-aEva/blob/main/SmartRetail_Prophet_Predictivo_Do%C3%B1aEva.ipynb)
+---
 
 
 📈 Hallazgos Principales
